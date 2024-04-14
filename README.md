@@ -1,2 +1,3 @@
 # Weather App For iOS
-## A Simple Weather App for the iOS Platform in Swift language.
+## A Simple Weather App for the iOS Platform.
+## ( Made in Swift language )
